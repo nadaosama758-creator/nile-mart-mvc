@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1865607-0c17-467f-a6b1-35e16a0742d6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.731757890217094E-239" />
+      <entry key="S5" value="5.246536264614353E-96" />
+      <entry key="S10" value="4.2169565579180217E-48" />
+      <entry key="S30" value="3.988198279890853E-16" />
+      <entry key="S60" value="3.9836082344344086E-8" />
+      <entry key="M2" value="3.990026950802499E-4" />
+      <entry key="M5" value="0.10187094493188814" />
+      <entry key="M10" value="0.678882784386616" />
+      <entry key="M15" value="1.3498989381794018" />
+      <entry key="M30" value="3.7577706026793027" />
+      <entry key="H1" value="10.856845425765567" />
+      <entry key="H2" value="23.152028818450226" />
+      <entry key="H4" value="37.655850516944675" />
+      <entry key="D1" value="191.76540423806264" />
+      <entry key="W1" value="533.8538728168054" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000100029447" />
+      <entry key="S5" value="1.0006310316555846" />
+      <entry key="S10" value="1.0251203434867207" />
+      <entry key="S30" value="1.2933851033857156" />
+      <entry key="S60" value="1.5817024988411792" />
+      <entry key="M2" value="2.12444998062444" />
+      <entry key="M5" value="3.4449029780282556" />
+      <entry key="M10" value="4.435990475156938" />
+      <entry key="M15" value="4.901905331608141" />
+      <entry key="M30" value="6.06906282626559" />
+      <entry key="H1" value="9.67087533576169" />
+      <entry key="H2" value="15.90514009169359" />
+      <entry key="H4" value="24.22706973591873" />
+      <entry key="D1" value="156.11956597964425" />
+      <entry key="W1" value="414.8897856837117" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.5167616095979584E-6" />
+      <entry key="MS500" value="0.07588718027469044" />
+      <entry key="S2" value="0.5248583439341636" />
+      <entry key="S5" value="0.7730499792477014" />
+      <entry key="S10" value="0.897463176208714" />
+      <entry key="S30" value="1.222552389282676" />
+      <entry key="S60" value="1.5327052019194192" />
+      <entry key="M2" value="2.093011044126888" />
+      <entry key="M5" value="3.5294664236655784" />
+      <entry key="M10" value="5.104662946053375" />
+      <entry key="M15" value="6.244441432078209" />
+      <entry key="M30" value="9.821710618651407" />
+      <entry key="H1" value="20.52214735328697" />
+      <entry key="H2" value="39.05165334781944" />
+      <entry key="H4" value="61.87842074220859" />
+      <entry key="D1" value="347.8802954150659" />
+      <entry key="W1" value="948.7418554802399" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LPGVIQKDdkzr2Ygm5X2aW6kna5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.WiringDemo.executor": "Run",
+    "Maven.NileMart_p [clean].executor": "Run",
+    "Maven.NileMart_p [install].executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/IdeaProjects/Spring Projects/NileMart_p",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.route.Main" />
+      <module name="NileMart_p" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.route.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WiringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.route.WiringDemo" />
+      <module name="NileMart_p" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.route.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.WiringDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1865607-0c17-467f-a6b1-35e16a0742d6" name="Changes" comment="" />
+      <created>1793348437524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793348437524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

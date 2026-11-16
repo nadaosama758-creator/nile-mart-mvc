@@ -1,0 +1,39 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="
+           http://www.springframework.org/schema/beans
+           https://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/context
+           https://www.springframework.org/schema/context/spring-context.xsd
+           http://www.springframework.org/schema/aop
+           https://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!-- تفعيل الـ Component Scanning -->
+    <context:component-scan base-package="org.route"/>
+
+    <!-- تفعيل الـ AOP Auto Proxying -->
+    <aop:aspectj-autoproxy/>
+
+    <bean id="standardPricing" class="org.route.service.StandardPricingService" />
+
+    <bean id="promotionalPricing" class="org.route.service.PromotionalPricingService">
+        <constructor-arg value="10"/>
+    </bean>
+
+    <bean id="inMemoryRepo" class="org.route.repository.InMemoryProductRepository"/>
+
+
+
+    <bean id="zoneShippingCalculator" class="org.route.Calculation.ZoneShippingCalculator" />
+
+    <bean id="freeShipping" class="org.route.Calculation.FreeShippingCalculator" />
+
+    <bean id="shippingQuoteService" class="org.route.service.ShippingQuoteService">
+        <constructor-arg ref="zoneShippingCalculator" />
+        <constructor-arg ref="freeShipping" />
+        <constructor-arg value="5000" />
+    </bean>
+
+</beans>
